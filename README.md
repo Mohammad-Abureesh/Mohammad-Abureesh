@@ -15,24 +15,8 @@ I'm a mobile applications developer with **5+ years of professional experience**
 
 ### Let's Connect 🤝
 
-- 📧 Email: [m7amdabureesh@gmail.com](mailto:m7amdabureesh@gmail.com)
-- 🌐 LinkedIn: [Mohammad H. Abureesh](https://www.linkedin.com/in/mohammad-abureesh-3aa097175)
-- 🔗 Linktree: [Social](https://linktr.ee/7amooAbureesh)
+- 📧 [Email](mailto:m7amdabureesh@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammad-abureesh-3aa097175)
+- 🔗 [Other Social](https://linktr.ee/7amooAbureesh)
 
 Contact me for an awesome deal 😎🤝!
-
-
-<!--
-**Mohammad-Abureesh/Mohammad-Abureesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
