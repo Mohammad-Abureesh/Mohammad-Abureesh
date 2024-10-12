@@ -20,14 +20,3 @@ I'm a mobile applications developer with **5+ years of professional experience**
 - 🔗 [Other Social](https://linktr.ee/7amooAbureesh)
 
 Contact me for an awesome deal 😎🤝!
-
-
-## <samp>**States**</samp>
-
-<p align = "center">
-  
-  <img src = "https://github-readme-stats.vercel.app/api?username=Mohammad-Abureesh&count_private=true&theme=dark&hide_border=true&show_icons=true" alt = "Mohammad Contribution" width = 600 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Mohammad-Abureesh&count_private=true&theme=dark&hide_border=true&show_icons=true" alt = "Mohammad Rating" width = 600 >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Abureesh&langs_count=8&theme=dark&hide_border=true&show_icons=true&layout=compact" alt = "Mohammad  Rating" width = 600 >
-  
-</p>
