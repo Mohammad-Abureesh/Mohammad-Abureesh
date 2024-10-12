@@ -17,7 +17,7 @@ I'm a mobile applications developer with **5+ years of professional experience**
 
 - 📧 Email: [m7amdabureesh@gmail.com](mailto:m7amdabureesh@gmail.com)
 - 🌐 LinkedIn: [Mohammad H. Abureesh](https://www.linkedin.com/in/mohammad-abureesh-3aa097175)
-- 🔗 Linktree: [7amooAbureesh](https://linktr.ee/7amooAbureesh)
+- 🔗 Linktree: [Social](https://linktr.ee/7amooAbureesh)
 
 Contact me for an awesome deal 😎🤝!
 
